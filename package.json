@@ -1,0 +1,23 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumudhini794/system-maintain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumudhini794/system-maintain/issues"
+  },
+  "homepage": "https://github.com/kumudhini794/system-maintain#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
